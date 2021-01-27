@@ -1,0 +1,13 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"Z01_BOOKING_AND_CUSTOMER"
+],
+"ASSOCIATED":
+[],
+"BASE":
+[]
+}
+}
